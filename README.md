@@ -1,0 +1,2 @@
+# Factory
+I created a database about Men's clothes Factory. There 4 tables to manage datas. I am looking for the answers of these questions that I wrote below.  - Set the total production as current quota which depends on product id.  - Create a transaction to follow current quota that effected by total production.   -Create a TRANSACTION to increase total production and current quota at the same time. 
